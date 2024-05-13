@@ -285,6 +285,12 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
   .dwellers {
     padding-right: 0;
     z-index: 0;
+    margin-top: 39px;
+  }
+  .Others {
+    padding-right: 0;
+    z-index: 0;
+    margin-top: 39px;
   }
 
   .dweller_info,
