@@ -241,9 +241,9 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
 }
 
 @media (max-width: 768px) {
-  body {
+/*   body {
     background: none;
-  }
+  } */
 
   body > .container {
     position: relative;
@@ -270,7 +270,8 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
   }
 
   .tab:first-child {
-    color: #333;
+/*     color: #333; */
+    color: #1c57c7;
     display: block;
   }
 
