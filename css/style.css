@@ -108,7 +108,7 @@ a.tab:focus {
 
 .vault_info {
   padding: 15px;
-  margin-top: 35px;
+  margin-top: 125px;
 }
 
 .stat {
@@ -319,7 +319,7 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
   .back_button {
     display: block;
     padding-bottom: 20px;
-    margin-top: 32px;
+    margin-top: 25px;
   }
 }
 
