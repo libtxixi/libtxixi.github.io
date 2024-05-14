@@ -238,7 +238,7 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
 
 .back_button {
   display: none;
-  margin-top: 35px;
+/*   margin-top: 35px; */
 }
 
 @media (max-width: 768px) {
@@ -319,7 +319,7 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
   .back_button {
     display: block;
     padding-bottom: 20px;
-    margin-top: 55px;
+    margin-top: 30px;
   }
 }
 
