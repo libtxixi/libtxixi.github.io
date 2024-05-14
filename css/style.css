@@ -285,16 +285,12 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
     width: calc(100% - 30px);
   }
 
-  .dwellers {
+  .dwellers, .Others, .actors  {
     padding-right: 0;
     z-index: 0;
-    margin-top: 39px;
+    margin-top: 50px;
   }
-  .Others, .actors {
-    padding-right: 0;
-    z-index: 0;
-    margin-top: 39px;
-  }
+ 
 
   .dweller_info,
   .other_info,
@@ -306,7 +302,7 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
 
     width: 100%;
     padding-left: 15px;
-    margin-top: 39px;
+    margin-top: 50px;
   }
 
   .stat {
@@ -323,6 +319,7 @@ a.list-group-item, a.list-group-item, button.list-group-item, button.list-group-
   .back_button {
     display: block;
     padding-bottom: 20px;
+    margin-top: 55px;
   }
 }
 
